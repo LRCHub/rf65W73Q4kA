@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Lucky Girl",
+  "base_artist": "Red Velvet",
+  "createdAt": "2025-12-27T08:44:12.657134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lucky Girl (feat. Fafi)",
+      "artist": "DJ Mehdi",
+      "has_synced": false,
+      "path": "select/01_Lucky_Girl_(feat._Fafi)_DJ_Mehdi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/02_Lucky_Girl_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/03_Lucky_Girl_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Go Lucky Girl",
+      "artist": "The Paragons",
+      "has_synced": false,
+      "path": "select/04_Happy_Go_Lucky_Girl_The_Paragons.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Rival Sons",
+      "has_synced": true,
+      "path": "select/05_Lucky_Girl_Rival_Sons.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "Samantha Leah",
+      "has_synced": true,
+      "path": "select/06_Lucky_Girl_Syndrome_Samantha_Leah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/07_Lucky_Girl_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LUCKY GIRL ~信じる者は救われる~ (OTANOSHIMI VERSION)",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/08_LUCKY_GIRL_~信じる者は救われる~_(OTANOSHIMI_VERSION)_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Gloria Estefan",
+      "has_synced": true,
+      "path": "select/09_Lucky_Girl_Gloria_Estefan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She Said She Was A Lucky Girl",
+      "artist": "Chris Norman",
+      "has_synced": false,
+      "path": "select/10_She_Said_She_Was_A_Lucky_Girl_Chris_Norman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/11_Lucky_Girl_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Kellie Pickler",
+      "has_synced": true,
+      "path": "select/12_Lucky_Girl_Kellie_Pickler.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happy Go Lucky Girl",
+      "artist": "The Paragons",
+      "has_synced": true,
+      "path": "select/13_Happy_Go_Lucky_Girl_The_Paragons.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/14_Lucky_Girl_Syndrome_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lucky Girl",
+      "artist": "Catherine Britt",
+      "has_synced": false,
+      "path": "select/15_Lucky_Girl_Catherine_Britt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lucky Girl",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Lucky_Girl_Red_Velvet.txt"
+    }
+  ]
+}
